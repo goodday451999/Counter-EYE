@@ -9,3 +9,15 @@ In the current global scenario we are seeing a lot of protests with huge gatheri
 * In such settings a lot of occlusion happens and accurate delineation of the boundaries is difficult.
 * Currently used surveillance systems are not yet fully automatic which Requires human effort to properly analyze CCTV footage and other surveillance feeds which make this process time-consuming.
 * The proposed method can be used to detect such issues and send alert to nearest police station or security force. This way, we can make CCTV more intelligent and smart.
+
+# Darknet Model Architecture:
+<img src="https://i.imgur.com/MxHMaI9.png" width="900" height="400"/>
+
+# Model Performance on Images:
+***Input:***
+
+<img src="https://i.imgur.com/A6iB4aE.jpg" width="800" height="800"/>
+
+***Output:*** 
+
+<img src="https://i.imgur.com/bCKj7ba.png" width="800" height="800"/>
