@@ -5,7 +5,7 @@ A real-time surveillance system enables the detection of people with knives, gun
 
 
 # Problem Statement: 
-In the current global scenario we are seeing a lot of protests with huge gathering happening on various issues. Surveillance in such cases is a major challenge for the authorities. It is easy for anti social elements to masquerade as protestors and create unrest. SurvOnTheGo is a real time surveillance system which enables detection of knives, guns and other dangerous objects and alert authorities to take requisite steps. 
+In the current global scenario, we are witnessing several terrorist attacks in India such as the 2011 High court bombing, the 2011 Mumbai bombings, the 2008 Mumbai attacks, the 2001 Indian Parliament attack as well as various protests with huge gatherings happening on various issues. Surveillance in such cases is a major challenge for the authorities. It is easy for anti-social elements to masquerade as protestors and create unrest. SurvOnTheGo is a real-time surveillance system enables the detection of people with knives, guns, and other dangerous objects in public places and makes alert to security forces to take necessary steps. 
 
 # Darknet Model Architecture:
 <img src="https://i.imgur.com/MxHMaI9.png" width="900" height="400"/>
@@ -22,6 +22,7 @@ In the current global scenario we are seeing a lot of protests with huge gatheri
 # Model Performance on Video:
 
 https://github.com/goodday451999/SurvOnTheGo/blob/main/DemoVideo/OutputVideo.mp4
+Youtube Video Link: https://youtu.be/uTCxUHxbJMk
 
 # Challenges: 
 * Making the system work accurately in a large gathering is a major challenge. 
