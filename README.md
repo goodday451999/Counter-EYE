@@ -1,6 +1,10 @@
 # SurvOnTheGo
 A real-time surveillance system enables the detection of people with knives, guns, and other dangerous objects in public places and makes alert to security forces to take necessary steps.
 
+<!--<img src="https://i.imgur.com/2V1LWDV.gifv" width="900" height="400"/> -->
+
+(https://drive.google.com/file/d/1jXqFB6-Gf_bgoE4q1C4YASpsei79_F4U/view?usp=sharing)
+
 # Problem Statement: 
 In the current global scenario we are seeing a lot of protests with huge gathering happening on various issues. Surveillance in such cases is a major challenge for the authorities. It is easy for anti social elements to masquerade as protestors and create unrest. SurvOnTheGo is a real time surveillance system which enables detection of knives, guns and other dangerous objects and alert authorities to take requisite steps. 
 
