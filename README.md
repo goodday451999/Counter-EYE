@@ -22,6 +22,7 @@ In the current global scenario, we are witnessing several terrorist attacks in I
 # Model Performance on Video:
 
 https://github.com/goodday451999/SurvOnTheGo/blob/main/DemoVideo/OutputVideo.mp4
+
 Youtube Video Link: https://youtu.be/uTCxUHxbJMk
 
 # Challenges: 
