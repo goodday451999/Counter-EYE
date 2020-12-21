@@ -12,7 +12,7 @@ In the current global scenario, we are witnessing several terrorist attacks in I
 
 # Dataset:
 The images and labels are taken from [University of Granada research group](https://sci2s.ugr.es/weapons-detection).
-For this project, we are using the region proposals approach. The data contains 3000 images of guns (mostly handguns) in `.jpg` format and their appropriate labels/annotations.
+For this project, we are using the region proposals approach. The data contains 3000 images of weapons (Handguns, Knives) in `.jpg` format and their appropriate labels/annotations.
 
 For each image, there is an xml file that contains the class name of the object (like, pistol) and the coordinates of the box surrounding the object.
 
@@ -38,7 +38,7 @@ Here is some of the fields from one of the xml files:
 </annotation>
 ```
 
-In this project, we considered the pistol, gun, rifle and knife as a signle class named Weapon.
+In this project, we considered the pistol, rifle and knife as a signle class named Weapon.
 
 # Model Performance on Image:
 ***Input:***
